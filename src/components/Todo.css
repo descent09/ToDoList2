@@ -1,0 +1,9 @@
+.ToDoElement{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.completed{
+    text-decoration: line-through;
+    color: rgb(109, 105, 105);
+}
